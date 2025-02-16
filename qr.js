@@ -16,7 +16,7 @@ const MESSAGE = process.env.MESSAGE ||  `
 *SESSION GENERATED SUCCESSFULY* ✅
 
 *LLW MD REPO HERE* 🌟
-https://github.com/GuhailTechInfo/ULTRA-MD
+https://github.com/MRLLW/LLW-MD
 
 *LLW MD WHATSAPP CHANNEL* 💭
 https://whatsapp.com/channel/0029Vb0s10t6BIEm7YKTHm3R
@@ -24,7 +24,7 @@ https://whatsapp.com/channel/0029Vb0s10t6BIEm7YKTHm3R
 *YOUTUBE CHANNEL* 🪄 
 https://youtube.com/GAMINGLLWFF
 
-*LLW-MD--WHATTSAPP-BOT* 🥀
+*LLW-MD--WHATSAPP-BOT* ✅
 `
 
 
