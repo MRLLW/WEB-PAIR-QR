@@ -7,18 +7,17 @@ const { Boom } = require("@hapi/boom");
 const MESSAGE = process.env.MESSAGE || `
 *SESSION GENERATED SUCCESSFULY* ✅
 
-*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/GuhailTechInfo/ULTRA-MD
+*LLW MD REPO HERE* 🌟
+https://github.com/MRLLW/LLW-MD
 
-*Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://t.me/GlobalBotInc
-https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+*LLW MD WHATSAPP CHANNEL* 💭
+https://whatsapp.com/channel/0029Vb0s10t6BIEm7YKTHm3R
 
 
-*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/GlobalTechInfo
+*YOUTUBE CHANNEL* 🪄 
+https://youtube.com/GAMINGLLWFF
 
-*ULTRA-MD--WHATTSAPP-BOT* 🥀
+*LLW-MD--WHATSAPP-BOT* ✅
 `;
 
 const { upload } = require('./mega');
